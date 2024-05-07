@@ -46,5 +46,3 @@ I am interested in Java programming, I completed the JavaRush intensive course i
 </td></tr></table>  
 
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
