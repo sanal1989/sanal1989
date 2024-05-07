@@ -8,7 +8,7 @@ I am interested in Java programming, I completed the JavaRush intensive course i
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table style="border:0"><tr><td valign="top" width="33%">
 
 
 
